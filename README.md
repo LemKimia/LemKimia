@@ -2,7 +2,7 @@
 🧩 I'm an aspiring engineer with several projects. 
 🖥 I'm currently learning TypeScript and ReactJS to enhance my frontend skills. 
 📢 I'm seeking opportunities to work as a Junior Frontend Engineer.
-
+ 
 How to reach me: 
 📇 samueljoel464@gmail.com
 📊 linkedin.com/in/samueljoelt/
