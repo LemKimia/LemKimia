@@ -11,7 +11,7 @@ I'm passionate about blending technology with creativity. With a background in c
 
 ## Let's Connect! 🔎
 - 📇 [My Email](samueljoel464@gmail.com)
-- 📊 [Linkedin](linkedin.com/in/samueljoelt/)
+- 📊 [Linkedin](https://linkedin.com/in/samueljoelt/)
 
 ## Language and Skills I have 📚
 
